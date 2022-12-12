@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p align="center">Android(Recovery,sometimes ROM developer)</p>
+<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=notnoelchannel&style=flat-square" alt="notnoelchannel"></p>
+<p align="center"><a href="https://github.com/notnoelchannel"><img src="https://github-readme-stats.vercel.app/api?username=notnoelchannel&show_icons=true&theme=dark&layout=compact"></a></p>
+
 
 <!--
 **NotNoelChannel/notnoelchannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
