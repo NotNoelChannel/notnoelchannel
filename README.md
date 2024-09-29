@@ -9,7 +9,7 @@
 <h1>My projects for now</h1>
   <h4>(will update this repository if all done)</h4>
   <ul>
-    <li>Linux kernel 3.10.108 for MSM8909 Huawei devices</li>
+    <li><s>Linux kernel 3.10.108 for MSM8909 Huawei devices</s></li> done, working on mainline 3.12 kernel :')
     <li>LineageOS 15.1 for Samsung Galaxy J3 (2016)</li>
     <li>LineageOS 14.1 and TWRP 3.7.0 for Spreadtrum SC7730SW devices</li>
   </ul>
