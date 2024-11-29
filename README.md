@@ -9,10 +9,7 @@
 <h1>My projects for now</h1>
   <h4>(will update this repository if all done)</h4>
   <ul>
-    <li><s>Linux kernel 3.10.108 for MSM8909 Huawei devices</s></li> done, working on mainline 3.12 kernel :')
-    <li><s>LineageOS 15.1 for Samsung Galaxy J3 (2016)</s> discontinued</li>
-    <li>LineageOS 14.1 and TWRP 3.7.0 for Spreadtrum SC7730SW devices</li>
-    <li>stable postmarketOS for Huawei Y560</li>
+    <li>Hmm.. there seems to be no projects for now. Check later.</li>
   </ul>
 <h1>My GitHub stats:</h1>
 <p><a href="https://github.com/notnoelchannel"><img src="https://github-readme-stats.vercel.app/api?username=notnoelchannel&show_icons=true&theme=dark&layout=compact"></a></p>
